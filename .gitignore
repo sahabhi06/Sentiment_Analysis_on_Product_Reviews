@@ -1,0 +1,9 @@
+.venv/
+models/
+models_binary/
+bert_out/
+__pycache__/
+*.pt
+*.pth
+*.safetensors
+*.bin

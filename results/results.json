@@ -1,0 +1,20 @@
+{
+  "BERT": {
+    "accuracy": 0.91575,
+    "macro_f1": 0.9157419902229456,
+    "train_seconds": 224.1249282360077,
+    "accuracy_with_1000_reviews": 0.88725,
+    "parameters_millions": 66.95501,
+    "size_mb": 267.853879,
+    "cpu_latency_ms": 28.34637959798177
+  },
+  "LSTM": {
+    "accuracy": 0.86425,
+    "macro_f1": 0.864182761978602,
+    "train_seconds": 10.369074821472168,
+    "accuracy_with_1000_reviews": 0.77425,
+    "parameters_millions": 4.171522,
+    "size_mb": 16.68979,
+    "cpu_latency_ms": 1.1949777603149414
+  }
+}

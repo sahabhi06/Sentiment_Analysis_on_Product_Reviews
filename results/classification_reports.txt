@@ -1,0 +1,19 @@
+BERT
+              precision    recall  f1-score   support
+
+    negative       0.92      0.91      0.91      2000
+    positive       0.91      0.93      0.92      2000
+
+    accuracy                           0.92      4000
+   macro avg       0.92      0.92      0.92      4000
+weighted avg       0.92      0.92      0.92      4000
+
+LSTM
+              precision    recall  f1-score   support
+
+    negative       0.85      0.89      0.87      2000
+    positive       0.88      0.84      0.86      2000
+
+    accuracy                           0.86      4000
+   macro avg       0.86      0.86      0.86      4000
+weighted avg       0.86      0.86      0.86      4000
